@@ -1,0 +1,610 @@
+﻿  ElementInteraktywny.cpp
+  Komorka.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(39,26): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(39,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(208,71): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(208,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(222,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(222,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(223,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(223,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(224,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(224,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(225,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(225,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(226,42): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Komorka.cpp(226,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  ListaNapisow.cpp
+  ListaPrzyciskow.cpp
+  Plansza.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(38,55): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(49,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(49,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(50,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(50,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(51,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(51,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(52,62): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(52,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(53,61): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(53,49): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(90,42): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(91,74): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(91,32): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(124,15): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(129,15): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(134,15): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(144,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(144,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(145,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(145,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(146,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(146,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(147,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(147,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(151,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(151,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(152,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(152,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(153,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(153,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(154,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(154,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(158,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(158,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(159,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(159,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(160,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(160,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(161,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(161,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(165,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(165,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(166,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(166,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(167,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(167,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(168,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(168,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(172,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(172,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(173,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(173,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(174,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(174,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(175,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(175,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(179,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(179,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(180,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(180,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(181,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(181,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(182,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(182,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(186,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(186,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(187,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(187,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(188,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(188,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(189,46): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(189,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(193,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(193,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(194,50): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(194,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(195,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(195,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(196,51): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(196,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(223,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(223,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(224,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Plansza.cpp(224,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  PozycjaKursora.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\PozycjaKursora.cpp(66,17): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\PozycjaKursora.cpp(67,41): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Przycisk.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(38,36): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(38,33): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(39,40): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(39,29): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(55,8): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(56,8): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(57,17): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(58,16): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(59,20): warning C4244: "inicjowanie": konwersja z "const T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(60,19): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(63,63): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(63,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(66,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(66,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(215,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Przycisk.cpp(215,30): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Stan.cpp
+  Symulacja.cpp
+  Szablon.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Szablon.cpp(44,35): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Szablon.cpp(44,31): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Szablon.cpp(72,40): warning C4244: "argument": konwersja z "_Ty2" do "float", możliwa utrata danych
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Szablon.cpp(72,28): warning C4244: "argument": konwersja z "_Ty1" do "float", możliwa utrata danych
+          with
+          [
+              _Ty1=int
+          ]
+  Uchwyt.cpp
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(35,41): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(35,30): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(130,75): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(130,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(131,113): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(131,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(132,79): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(132,53): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(133,113): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(133,87): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(134,76): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(134,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(135,112): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(135,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(136,72): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(136,50): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(137,110): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Uchwyt.cpp(137,88): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  main.cpp
+  Generowanie kodu...
+C:\Users\Jakub\source\repos\Gra w zycie\Gra w zycie\Stan.cpp(77): warning C4715: "Stan::ZwrocStan”: niewszystkie ścieżki kodu zwracają wartość
+  Gra w zycie.vcxproj -> C:\Users\Jakub\source\repos\Gra w zycie\x64\Debug\Gra w zycie.exe
